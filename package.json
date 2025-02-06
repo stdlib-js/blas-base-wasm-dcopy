@@ -1,5 +1,5 @@
 {
-  "name": "@stdlib/blas-base-dcopy-wasm",
+  "name": "@stdlib/blas-base-wasm-dcopy",
   "version": "0.0.0",
   "description": "Copy values from `x` into `y`.",
   "license": "Apache-2.0",
@@ -36,7 +36,7 @@
   "homepage": "https://stdlib.io",
   "repository": {
     "type": "git",
-    "url": "git://github.com/stdlib-js/blas-base-dcopy-wasm.git"
+    "url": "git://github.com/stdlib-js/blas-base-wasm-dcopy.git"
   },
   "bugs": {
     "url": "https://github.com/stdlib-js/stdlib/issues"
