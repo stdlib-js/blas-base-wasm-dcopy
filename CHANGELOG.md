@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-27)
+## Unreleased (2026-11-03)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`607bbc6`](https://github.com/stdlib-js/stdlib/commit/607bbc6e104c273e5b26cabfb21a8c06f3d5d375) - **build:** avoid false positives in ESLint rule `jsdoc-doctest-decimal-point` [(#14644)](https://github.com/stdlib-js/stdlib/pull/14644) _(by Philipp Burckhardt, Athan Reines)_
 -   [`94e67fd`](https://github.com/stdlib-js/stdlib/commit/94e67fd1ed8a206d4209c1071c378661cc9ab16b) - **build:** add scripts to insert license headers [(#13482)](https://github.com/stdlib-js/stdlib/pull/13482) _(by Prashant Kumar Yadav)_
 -   [`98ca4d4`](https://github.com/stdlib-js/stdlib/commit/98ca4d428d981f27df4d2b2e1d403161d4f7ade2) - **chore:** rename `little_endian_array.js` example to plural [(#12556)](https://github.com/stdlib-js/stdlib/pull/12556) _(by Philipp Burckhardt)_
